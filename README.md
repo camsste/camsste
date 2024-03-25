@@ -2,7 +2,10 @@
 - 👀 I’m interested in games and technology
 - 🌱 I’m currently learning nothing (LOL)
 - 💞️ I’m looking to collaborate on Faculdade SENAC
-- 📫 You can try to me by my email "camilestefanypereira12@gmail.com" 
+- 📫 You can try to me by my email "camilestefanypereira12@gmail.com"
+
+- ![Snake animation](https://github.com/camsste/camsste/blob/output/github-contribution-grid-snake.svg)
+
 
 <div>
 <a href="https://github.com/camsste">
@@ -10,7 +13,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/camsste/camsste/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 camsste/camsste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
