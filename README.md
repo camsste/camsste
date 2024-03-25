@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" scr="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZiYWptcjdpczlvbmp5dG4zcXNpc2l6djRieWhzNDZ6eW1xNHpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
+<img style="align: right;" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZiYWptcjdpczlvbmp5dG4zcXNpc2l6djRieWhzNDZ6eW1xNHpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
 
 # Olá, Seja Bem vindo(a) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
 
