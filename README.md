@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @camsste
-- 👀 I’m interested in games and technology
-- 🌱 I’m currently learning nothing (LOL)
-- 💞️ I’m looking to collaborate on Faculdade SENAC
-- 📫 You can try to me by my email "camilestefanypereira12@gmail.com"
+<img style-"margin-top: 40px;" align-"right" width-"400px" scr-"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZiYWptcjdpczlvbmp5dG4zcXNpc2l6djRieWhzNDZ6eW1xNHpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
 
-- ![Snake animation](https://github.com/camsste/camsste/blob/output/github-contribution-grid-snake.svg)
+# Olá, Seja Bem vindo(a) :) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
 
+- 💻 Cursando Análise e Desenvolvimento de Sistemas
+- 🗒️ Conheça meus projetos!
 
 <div>
 <a href="https://github.com/camsste">
