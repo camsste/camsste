@@ -2,7 +2,7 @@
 
 # Olá, Seja Bem vindo(a) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Cursando Análise e Desenvolvimento de Sistemas e dois cursos extensivos focados em AWS e Back-End!
 - 🗒️ Conheça meus projetos!
 
 <br>
