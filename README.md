@@ -1,22 +1,26 @@
+# Olá, Seja Bem-vindo(a) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
 
+Olá! Eu sou a Camile Stefany, tenho 19 anos e sou super curiosa, sempre buscando aprender tudo o que posso.
 
-# Olá, Seja Bem vindo(a) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30px">
+## Escolaridade
+- 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas, além de dois cursos extensivos focados na obtenção do meu primeiro certificado AWS (Cloud Practitioner) e em Back-End com Python e MySQL.
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas e dois cursos extensivos focados em AWS e Back-End!
-- 🗒️ Conheça meus projetos!
+## Projetos
+Dê uma olhada nos projetos que estou trabalhando e explore meu perfil!
 
-<br>
+---
+
 <div align="center">
-<a href="https://github.com/camsste">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camsste&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <h2>Estatísticas do GitHub</h2>
+  
+  <a href="https://github.com/camsste">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camsste&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 <br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZiYWptcjdpczlvbmp5dG4zcXNpc2l6djRieWhzNDZ6eW1xNHpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif
-" width="1000px"> 
 
-<!---
-camsste/camsste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZiYWptcjdpczlvbmp5dG4zcXNpc2l6djRieWhzNDZ6eW1xNHpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+
+
