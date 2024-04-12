@@ -1,32 +1,34 @@
-<h1 align="left">Hello World!<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="50px"></h1>
+
 <table>
   <tr>
     <td>
-      <p>Eu sou a Camile Stefany, tenho 19 anos e sou super curiosa, sempre buscando aprender tudo o que posso ao meu alcance.</p>
-      <p>Sempre gostei de tecnologia e amo meus gatinhos principalmente 🐈</p>
+      <h2>Sobre Mim</h2>
+      <p>Olá! Sou Camile Stefany, uma jovem de 19 anos curiosa em descobrir novidades e aprender tudo o que estiver ao meu alcance.</p>
+      <p>Foi através dos jogos eletrônicos que encontrei minha paixão pela tecnologia, e desde então tenho me dedicado cada vez mais a explorar esse universo incríveeeeel!. Além disso, sou completamente apaixonada pelos meus gatinhos!</p>
+      <p>Atualmente, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco. Para complementar minha formação, estou participando de dois cursos presenciais intensivos: um voltado para a obtenção do meu primeiro certificado AWS (Cloud Practitioner) e outro focado em Back-End com Python e MySQL. Enfrentar o desafio do Back-End é um pouco intimidante para mim, mas estou determinada a dominar essa habilidade este ano!</p>
+      <p>Se quiser me conhecer melhor ou conectar-se comigo, fique à vontade para visitar meu perfil no LinkedIn: https://www.linkedin.com/in/devcamilestefany/</p>
     </td>
     <td>
       <p><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlsYWljMXhhOXRpNHlhNzBwdWhmZ3FndDl1MzJ0eWc5eGNmanlnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="400px" style="float: right;"></p>
+      <h1 align="center">Hello World!<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="50px"></h1>
     </td>
   </tr>
 </table>
 
-## <p align="center">Escolaridade</p>
-Atualmente cursando Análise e Desenvolvimento de Sistemas, além de dois cursos extensivos focados na obtenção do meu primeiro certificado AWS (Cloud Practitioner) e em Back-End com Python e MySQL.
-<br>
 
-## <p align="center">Projetos</p>
-Dê uma olhada nos meus repositórios em que estou trabalhando e explore meu perfil! Tenho treinado linguagem em C e principalmente Python.
-<br>
-
-## <p align="center">Estatísticas do GitHub</p>
-<br>
-
-<div align="center">  
-  <br>
-  <a href="https://github.com/camsste">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camsste&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <p><img src="https://64.media.tumblr.com/443cf0325430e2e067f13ba4a6372f78/tumblr_mlarbsHxIG1rvkw6no1_500.gifv" width="800px" height="300px" style="float: left;"></p>
+    </td>
+    <td align="right">
+      <div>
+        <a href="https://github.com/camsste">
+          <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+          <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camsste&layout=compact&langs_count=7&theme=dracula"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
