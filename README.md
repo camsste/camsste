@@ -16,19 +16,10 @@
 </table>
 
 
-<table>
-  <tr>
-    <td>
-      <p><img src="https://64.media.tumblr.com/443cf0325430e2e067f13ba4a6372f78/tumblr_mlarbsHxIG1rvkw6no1_500.gifv" width="500px" height="200px" style="float: left;"></p>
-    </td>
-    <td align="right">
-      <div>
+  <div align="center">
         <a href="https://github.com/camsste">
-          <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-          <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camsste&layout=compact&langs_count=7&theme=dracula"/>
+          <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+          <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camsste&layout=compact&langs_count=7&theme=dracula"/>
         </a>
       </div>
-    </td>
-  </tr>
-</table>
 
