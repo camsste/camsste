@@ -3,7 +3,7 @@
   <tr>
     <td>
       <h2>Sobre Mim</h2>
-      <p>Olá! Sou Camile Stefany, uma jovem de 19 anos curiosa em descobrir novidades e aprender tudo o que estiver ao meu alcance.</p>
+      <p>Olá! Sou Camile Stefany, uma jovem de 20 anos curiosa em descobrir novidades e aprender tudo o que estiver ao meu alcance.</p>
       <p>Foi através dos jogos eletrônicos que encontrei minha paixão pela tecnologia, e desde então tenho me dedicado cada vez mais a explorar esse universo incríveeeeel!. Além disso, sou completamente apaixonada pelos meus gatinhos!</p>
       <p>Atualmente, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco. Para complementar minha formação, estou participando de dois cursos presenciais intensivos: um voltado para a obtenção do meu primeiro certificado AWS (Cloud Practitioner) e outro focado em Back-End com Python e MySQL. Enfrentar o desafio do Back-End é um pouco intimidante para mim, mas estou determinada a dominar essa habilidade este ano!</p>
       <p>Se quiser me conhecer melhor ou conectar-se comigo, fique à vontade para visitar meu perfil no LinkedIn: https://www.linkedin.com/in/devcamilestefany/</p>
