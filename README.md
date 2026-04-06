@@ -7,7 +7,7 @@
 
 <p>Foi através dos jogos eletrônicos que descobri minha paixão pela tecnologia, e desde então venho construindo minha trajetória nesse universo incrível. Hoje, essa curiosidade evoluiu para um interesse mais profundo em entender o comportamento humano através da tecnologia — principalmente com o uso de inteligência artificial. Ah, e claro… continuo sendo completamente apaixonada pelos meus gatinhos 🐱✨</p>
 
-<p>Atualmente, sou mestranda em Ciência da Computação no Centro de Informática da UFPE (CIn), com foco em Visão Computacional e análise de comportamento humano. Atuo como pesquisadora no Voxar Labs, onde desenvolvo estudos voltados à identificação de padrões comportamentais, sinais multimodais e detecção de comportamentos de risco a partir de dados visuais e temporais :contentReference[oaicite:0]{index=0}.</p>
+<p>Atualmente, sou mestranda em Ciência da Computação no Centro de Informática da UFPE (CIn), com foco em Visão Computacional e análise de comportamento humano. Atuo como pesquisadora no Voxar Labs, onde desenvolvo estudos voltados à identificação de padrões comportamentais, sinais multimodais e detecção de comportamentos de risco a partir de dados visuais e temporais.</p>
 
 <p>Minha pesquisa envolve temas como análise multimodal (sinais visuais, fisiológicos e motores), modelagem temporal de comportamento e construção de taxonomias comportamentais, buscando representar o comportamento humano como uma assinatura digital dinâmica e interpretável :contentReference[oaicite:1]{index=1}.</p>
 
