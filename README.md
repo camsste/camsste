@@ -3,9 +3,17 @@
   <tr>
     <td>
       <h2>Sobre Mim</h2>
-      <p>Olá! Sou Camile Stefany, uma jovem de 20 anos curiosa em descobrir novidades e aprender tudo o que estiver ao meu alcance.</p>
-      <p>Foi através dos jogos eletrônicos que encontrei minha paixão pela tecnologia, e desde então tenho me dedicado cada vez mais a explorar esse universo incríveeeeel!. Além disso, sou completamente apaixonada pelos meus gatinhos!</p>
-      <p>Atualmente, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco. Para complementar minha formação, estou participando de dois cursos presenciais intensivos: um voltado para a obtenção do meu primeiro certificado AWS (Cloud Practitioner) e outro focado em Back-End com Python e MySQL. Enfrentar o desafio do Back-End é um pouco intimidante para mim, mas estou determinada a dominar essa habilidade este ano!</p>
+<p>Olá! Sou Camile Stefany, tenho 21 anos e sou movida pela curiosidade de aprender, explorar e transformar conhecimento em algo que realmente faça diferença.</p>
+
+<p>Foi através dos jogos eletrônicos que descobri minha paixão pela tecnologia, e desde então venho construindo minha trajetória nesse universo incrível. Hoje, essa curiosidade evoluiu para um interesse mais profundo em entender o comportamento humano através da tecnologia — principalmente com o uso de inteligência artificial. Ah, e claro… continuo sendo completamente apaixonada pelos meus gatinhos 🐱✨</p>
+
+<p>Atualmente, sou mestranda em Ciência da Computação no Centro de Informática da UFPE (CIn), com foco em Visão Computacional e análise de comportamento humano. Atuo como pesquisadora no Voxar Labs, onde desenvolvo estudos voltados à identificação de padrões comportamentais, sinais multimodais e detecção de comportamentos de risco a partir de dados visuais e temporais :contentReference[oaicite:0]{index=0}.</p>
+
+<p>Minha pesquisa envolve temas como análise multimodal (sinais visuais, fisiológicos e motores), modelagem temporal de comportamento e construção de taxonomias comportamentais, buscando representar o comportamento humano como uma assinatura digital dinâmica e interpretável :contentReference[oaicite:1]{index=1}.</p>
+
+<p>Ao longo da minha trajetória, venho desenvolvendo habilidades em áreas como desenvolvimento fullstack, análise de dados, machine learning e visão computacional, além de trabalhar com tecnologias como Python, bibliotecas de IA, processamento de dados e integração de sistemas. Também tenho experiência com metodologias ágeis, design de interfaces e desenvolvimento de soluções voltadas para problemas reais.</p>
+
+<p>Hoje, meu foco está em evoluir como pesquisadora e profissional, explorando como a tecnologia pode entender melhor o comportamento humano e contribuir para sistemas mais inteligentes, seguros e centrados nas pessoas.</p>
       <p>Se quiser me conhecer melhor ou conectar-se comigo, fique à vontade para visitar meu perfil no LinkedIn: https://www.linkedin.com/in/devcamilestefany/</p>
     </td>
     <td>
