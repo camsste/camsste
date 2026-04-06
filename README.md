@@ -13,7 +13,7 @@
 
 <p>Olá! Sou Camile Stefany, tenho 21 anos e sou movida pela curiosidade de aprender, explorar e transformar conhecimento em algo que realmente faça diferença.</p>
 
-<p>Foi através dos jogos eletrônicos que descobri minha paixão pela tecnologia, e desde então venho construindo minha trajetória nesse universo incrível. Hoje, essa curiosidade evoluiu para um interesse mais profundo em entender o comportamento humano através da tecnologia — principalmente com o uso de inteligência artificial. Ah, e claro… continuo sendo completamente apaixonada pelos meus gatinhos 🐱✨</p>
+<p>Foi através dos jogos eletrônicos que descobri minha paixão pela tecnologia, e desde então venho construindo minha trajetória nesse universo incrível. Hoje, essa curiosidade evoluiu para um interesse mais profundo em entender o comportamento humano através da tecnologia — principalmente com o uso de inteligência artificial 🐱✨</p>
 
 <p>Atualmente, sou mestranda em Ciência da Computação no Centro de Informática da UFPE (CIn), com foco em Visão Computacional e análise de comportamento humano. Atuo como pesquisadora no Voxar Labs, onde desenvolvo estudos voltados à identificação de padrões comportamentais, sinais multimodais e detecção de comportamentos de risco a partir de dados visuais e temporais.</p>
 
