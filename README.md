@@ -2,10 +2,10 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlsYWljMXhhOXRpNHlhNzBwdWhmZ3FndDl1MzJ0eWc5eGNmanlnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="400px">
 </p>
 
-<h1 align="center">
+<p align="center" style="font-size: 32px; font-weight: bold;">
   Hello World!
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="50px">
-</h1>
+</p>
 
 <hr>
 
