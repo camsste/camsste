@@ -44,16 +44,3 @@
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
 <br />
 
-## 🔗 Professional Links
-
-* <img alt="LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /> [LinkedIn](https://www.linkedin.com/in/devcamilestefany/) — Connect with me professionally.
-* <img alt="GitHub" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> [GitHub](https://github.com/camsste) — Explore my projects and repositories.
-
----
-
-### 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=camsste&show_icons=true&theme=tokyonight&hide_rank=false" height="160cm"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camsste&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160cm"/>
-</div>
