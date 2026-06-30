@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlsYWljMXhhOXRpNHlhNzBwdWhmZ3FndDl1MzJ0eWc5eGNmanlnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="400px">
 </p>
 
-#Hello, I'm Camile Stefany!
+# Hello, I'm Camile Stefany!
 
 **`Computer Science Master's Student | Computer Vision Researcher | Full-Stack Developer`**
 
