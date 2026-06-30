@@ -11,7 +11,6 @@
 🎓 Graduated in Systems Analysis and Development from Senac Pernambuco through the Embarque Digital program.<br/>
 🧠 Interested in Artificial Intelligence, Computer Vision, Human Motion Analysis, Extended Reality, and accessible technological solutions.<br/>
 ⚙️ Experience with full-stack development, machine learning pipelines, video processing, and research-oriented software development.<br/>
-📫 Contact me through my social media links below.
 
 ---
 
